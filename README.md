@@ -1,11 +1,46 @@
 <h1 align="center">Hi 👋, I'm Hariharan</h1>
 <h3 align="center">Book Recommendation System using Cosine Similarity</h3>
 
+
 - 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://hacktechno.ccbp.tech/](https://hacktechno.ccbp.tech/)
 
 - 📫 How to reach me **hariharansundarrajan123@gmail.com**
+📚 Book Recommendation System using Cosine Similarity
+
+
+📌 About the Project
+
+This is a Book Recommendation System that uses Cosine Similarity to suggest books based on user preferences. The system leverages NumPy and Pandas to compute similarity scores and provides recommendations through a Streamlit web interface.
+
+🚀 Features
+
+📚 Personalized Recommendations based on book similarity
+
+⚡ Fast & Efficient computation using NumPy and Pandas
+
+🔍 Content-Based Filtering using Cosine Similarity
+
+🌐 Interactive Web App built with Streamlit
+
+📊 Scikit-Learn for Model Processing
+
+💾 Pickle for Model Storage
+
+🛠 Tech Stack
+
+Python 🐍
+
+Streamlit 🌐
+
+NumPy 💢
+
+Pandas 🏡
+
+Scikit-Learn 🤖
+
+Pickle 💾
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
