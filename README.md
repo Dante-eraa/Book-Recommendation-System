@@ -1,52 +1,50 @@
 <h1 align="center">Hi 👋, I'm Hariharan</h1>
-<h3 align="center">Book Recommendation System using Cosine Similarity</h3>
+<h3 align="center">📚 Book Recommendation System using Cosine Similarity</h3>
 
+---
 
-- 🌱 I’m currently learning **MERN Stack**
+## 📌 About the Project  
 
-- 👨‍💻 All of my projects are available at [https://hacktechno.ccbp.tech/](https://hacktechno.ccbp.tech/)
+This is a **Book Recommendation System** that uses **Cosine Similarity** to suggest books based on user preferences. The system leverages **NumPy** and **Pandas** to compute similarity scores and provides recommendations through a **Streamlit web interface**.  
 
-- 📫 How to reach me **hariharansundarrajan123@gmail.com**
-📚 Book Recommendation System using Cosine Similarity
+---
 
+## 🚀 Features  
 
-📌 About the Project
+✅ **Personalized Recommendations** – Get book suggestions based on similarity  
+✅ **Fast & Efficient Computation** – Powered by NumPy and Pandas  
+✅ **Content-Based Filtering** – Uses **Cosine Similarity** for precise results  
+✅ **Interactive Web App** – Built with Streamlit  
+✅ **Scikit-Learn for Model Processing** – Optimized performance  
+✅ **Pickle for Model Storage** – Efficient data handling  
 
-This is a Book Recommendation System that uses Cosine Similarity to suggest books based on user preferences. The system leverages NumPy and Pandas to compute similarity scores and provides recommendations through a Streamlit web interface.
+---
 
-🚀 Features
+## 🛠 Tech Stack  
 
-📚 Personalized Recommendations based on book similarity
+- **Programming Language**: Python 🐍  
+- **Web Framework**: Streamlit 🌐  
+- **Data Processing**: NumPy 💢, Pandas 🏡  
+- **Machine Learning**: Scikit-Learn 🤖  
+- **Model Storage**: Pickle 💾  
 
-⚡ Fast & Efficient computation using NumPy and Pandas
+---
 
-🔍 Content-Based Filtering using Cosine Similarity
+## 📂 Installation  
 
-🌐 Interactive Web App built with Streamlit
+Follow these steps to set up and run the project:  
 
-📊 Scikit-Learn for Model Processing
+```sh
+# 1️⃣ Clone the repository
+git clone https://github.com/yourusername/book-recommendation-system.git
+cd book-recommendation-system
 
-💾 Pickle for Model Storage
+# 2️⃣ Install dependencies
+pip install -r requirements.txt
 
-🛠 Tech Stack
+# 3️⃣ Run the Streamlit app
+streamlit run app.py
+```
 
-Python 🐍
-
-Streamlit 🌐
-
-NumPy 💢
-
-Pandas 🏡
-
-Scikit-Learn 🤖
-
-Pickle 💾
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hacktechno/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hacktechno/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
-
+📫 Connect with Me & 🛠 Languages & Tools
+<p align="left"> <a href="https://linkedin.com/in/hacktechno/" target="blank"> <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </p> <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </p>
